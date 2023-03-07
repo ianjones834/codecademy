@@ -27,5 +27,16 @@ table {
 }
 
 th {
-  border: 2px solid;
+  background-color: violet;
+}
+
+td {
+  text-align: center;
+  border-top: 1px solid darkmagenta;
+  padding: 4px 8px;
+}
+
+.tag {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: blanchedalmond;
 }
